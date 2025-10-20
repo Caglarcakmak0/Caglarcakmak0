@@ -18,14 +18,22 @@
   
 ## Skills
 
-![](https://github-widgetbox.vercel.app/api/skills?names=js,ts,python,mongodb,json,csharp,java&includeNames=true)
+![](https://github-widgetbox.vercel.app/api/skills?names=javascript,typescript,python,html,css&includeNames=true)
   
- ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,npm,nodejs&includeNames=true)
+ ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,nextjs,vue,tailwind,vuetify&includeNames=true)
  
- ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=bootstrap,tailwind,react,electron,dotnet&includeNames=true)
+ ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,npm,pip,markdown,openapi&includeNames=true)
   
  ![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,vscode,windows&includeNames=true)
   
+<div align="left">
+
+- `Frontend:` React, Next.js, Vue 3, Tailwind CSS, Ant Design, Material UI, Vuetify
+- `Backend & Data:` Node.js, Express.js, REST APIs, MySQL, Firestore
+- `Tooling:` Git, npm, pip, Markdown automation, OpenRouter API client, yt-dlp CLI, JSON and CSV workflows
+- `Focus Areas:` Micro frontends, performance optimization, UX experimentation, real-time collaboration
+
+</div>
 
 </div>
 
@@ -61,7 +69,9 @@
 - **Stanford University (Online)** - Supervised Machine Learning: Regression and Classification; Advanced Learning Algorithms (2024)
 
 ## Languages
-- Turkish (Native) | English (Fluent) | Dutch (Beginner)
+- Turkish: Native
+- English: Fluent
+- Dutch: Beginner
 
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/caglarcakmak0/) | [GitHub](https://github.com/Caglarcakmak0) | [Email](mailto:caglarcakmak0@icloud.com)
