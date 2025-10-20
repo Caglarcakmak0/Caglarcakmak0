@@ -28,10 +28,11 @@
   
 <div align="left">
 
-- `Frontend:` React, Next.js, Vue 3, Tailwind CSS, Ant Design, Material UI, Vuetify
-- `Backend & Data:` Node.js, Express.js, REST APIs, MySQL, Firestore
-- `Tooling:` Git, npm, pip, Markdown automation, OpenRouter API client, yt-dlp CLI, JSON and CSV workflows
-- `Focus Areas:` Micro frontends, performance optimization, UX experimentation, real-time collaboration
+- `Languages:` JavaScript/TypeScript, Python, HTML5, CSS3
+- `Tools:` Ant Design, Material UI, Tailwind CSS, Vuetify, MySQL, Firestore, Git, npm/pip, Markdown tooling, OpenRouter API client, yt-dlp CLI, JSON/CSV workflows
+- `Frameworks & Libraries:` React, Next.js, Vue 3
+- `Backend & Data:` Node.js, Express.js, REST APIs
+- `Concepts:` Performance optimization, UI/UX design, micro frontends, A/B testing, CI/CD, SPA, PWA, RESTful APIs, Agile/Scrum, prompt optimization pipelines, API integration & rate-limited retries, data parsing/serialization, CLI automation, static HTML generation, reproducible content publishing
 
 </div>
 
