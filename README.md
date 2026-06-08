@@ -62,7 +62,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
-![BullMQ](https://img.shields.io/badge/BullMQ_(queues)-DB2D20?style=for-the-badge&logo=redis&logoColor=white)
 
 **AI / ML &amp; automation**
 
@@ -86,8 +85,6 @@
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Hetzner](https://img.shields.io/badge/Hetzner_Cloud-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
 ![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Vault](https://img.shields.io/badge/OpenBao_/_Vault-FFCF25?style=for-the-badge&logo=vault&logoColor=black)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 **Tooling &amp; testing**
 
