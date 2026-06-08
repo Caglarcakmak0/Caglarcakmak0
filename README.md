@@ -20,10 +20,8 @@
 
 ### 🛠 What I'm building now
 
-- **Computer-use & AI agents** — agent loops, tool orchestration and eval harnesses on the Claude Agent SDK.
-- **Browser automation at scale** — Playwright/CDP capture, `rrweb` session record-and-replay, distributed crawling.
-- **Web-clone fidelity & RL environments** — turning captured web sessions into interactive, RL-ready training environments with render- and transition-level verification.
-- **Backend platform** — Go + Bun monorepos: gRPC services, Postgres, Redis queues, infra-as-code.
+- **Computer-use agents (CUA)** — AI agents that drive real browsers: agent loops, tool orchestration and evaluation, built on the Claude Agent SDK.
+- Backend services in **Go + TypeScript** that support them.
 
 ### 💼 Experience
 
@@ -64,6 +62,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![BullMQ](https://img.shields.io/badge/BullMQ_(queues)-DB2D20?style=for-the-badge&logo=redis&logoColor=white)
 
 **AI / ML &amp; automation**
 
@@ -73,13 +72,22 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 
-**DevOps &amp; cloud**
+**DevOps &amp; containers**
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+**Cloud &amp; infrastructure**
+
+![GCP](https://img.shields.io/badge/GCP_/_GKE-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner_Cloud-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
+![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Vault](https://img.shields.io/badge/OpenBao_/_Vault-FFCF25?style=for-the-badge&logo=vault&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 **Tooling &amp; testing**
 
@@ -88,6 +96,8 @@
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Architecture & practices** · Microservices · Event-driven queues · Monorepo (Moon / Bun) · REST & gRPC API design · CI/CD · Git Flow · Unit & E2E testing
 
 ---
 
