@@ -20,7 +20,7 @@
 
 ### 🛠 What I'm building now
 
-- **Computer-use agents (CUA)** — AI agents that drive real browsers: agent loops, tool orchestration and evaluation, built on the Claude Agent SDK.
+- **Computer-use agents (CUA)** — AI agents that drive real browsers: agent loops, tool orchestration and evaluation.
 - Backend services in **Go + TypeScript** that support them.
 
 ### 💼 Experience
